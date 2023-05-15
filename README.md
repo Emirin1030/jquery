@@ -1,1 +1,2 @@
 # jquery
+Emiri Niijima
